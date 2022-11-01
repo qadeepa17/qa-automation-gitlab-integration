@@ -1,0 +1,21 @@
+{
+  "name": "qa-automation-gitlab-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qadeepa17/qa-automation-gitlab-integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qadeepa17/qa-automation-gitlab-integration/issues"
+  },
+  "homepage": "https://github.com/qadeepa17/qa-automation-gitlab-integration#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
